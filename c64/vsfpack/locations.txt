@@ -1,0 +1,6 @@
+exomizer c:\Users\Marc\Downloads\exomizer\src\exomizer.exe
+
+kickass.cmd intout.asm
+exo.cmd sfx  16384 intout.prg -o sfx.prg
+
+
